@@ -1,0 +1,22 @@
+## Characteristics
+-) non linear
+-) binary tree : atmost 2 nodes (child)
+-) n ary tree : atmost n nodes (child)
+
+## Terminology
+-) root : top most nodes
+
+## Tree creation steps
+-) main root 
+-) tree->left : recursion
+-) tree->right : recursion 
+
+## Example
+-) 20 30 50 -1 60 -1 -1 40 -1 -1 100 -1 -1 
+-) -1 indicates NULL
+
+## Types 
+-) Left skewed tree : all left nodes
+-) Righ skewed tree : all right nodes
+
+-)
